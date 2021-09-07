@@ -1,0 +1,20 @@
+
+2021-0905
+** personal access token : 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
+Username for 'https://github.com': ds-hur
+
+** 비밀번호 입력하면 접속 실패함!!! **
+이때는 Creating a personal access token 해주고 그걸 복사 후 입력해줘야 함
+
+Password for 'https://ds-hur@github.com':
+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
+
+** 사용한 명령어 정리
+git remote add origin https://github.com/ds-hur/iTshirt.git
+git checkout -
+git push origin master
+git pull origin master
+git clone https://github.com/ds-hur/iTshirt.git .
+git add README.txt
+git commit -m "개발자 목록 추가"
+
